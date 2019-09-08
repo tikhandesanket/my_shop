@@ -14,7 +14,7 @@
   ram = rand(0..4)
   ext_storage = rand(0..4)
   color = ['red', 'grey', 'black', 'gold'].sample
-  user_id = User.first
+  user_id = 1
   year = [1992,1993,1994, 1995, 1997, 2003, 2006, 2018, 2019, 2016].sample
 
   product = Product.create(product_type: product_type, name: name, model: model, brand: brand, ram: ram, ext_storage: ext_storage, color: color, user_id: user_id, year: year)

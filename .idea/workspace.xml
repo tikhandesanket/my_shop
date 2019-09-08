@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d12553a8-f013-4f04-826a-3e22f4935205" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seeds.rb" afterPath="$PROJECT_DIR$/db/seeds.rb" />
     </list>
     <ignored path="myshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,10 +37,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="1" selection-start="322" selection-end="322" vertical-scroll-proportion="0.27918783">
+            <state line="11" column="1" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="seeds.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="36" selection-start="583" selection-end="583" vertical-scroll-proportion="0.33737025">
               <folding />
             </state>
           </provider>
@@ -141,7 +150,6 @@
         <option value="$PROJECT_DIR$/db/migrate/20190907153139_add_name_to_user.rb" />
         <option value="$PROJECT_DIR$/app/views/users/registrations/new.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-        <option value="$PROJECT_DIR$/db/seeds.rb" />
         <option value="$PROJECT_DIR$/app/views/products/_products.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
@@ -152,6 +160,7 @@
         <option value="$PROJECT_DIR$/app/views/products/show.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/products_controller.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/db/seeds.rb" />
       </list>
     </option>
   </component>
@@ -619,11 +628,6 @@
         <state line="227" column="28" selection-start="11500" selection-end="11500" vertical-scroll-proportion="0.39685315" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="34" selection-start="971" selection-end="971" vertical-scroll-proportion="0.52238804" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/products/_products.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="36" selection-start="560" selection-end="560" vertical-scroll-proportion="-13.75" />
@@ -697,7 +701,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="1" selection-start="322" selection-end="322" vertical-scroll-proportion="0.27918783">
+        <state line="11" column="1" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="36" selection-start="583" selection-end="583" vertical-scroll-proportion="0.33737025">
           <folding />
         </state>
       </provider>
